@@ -7,7 +7,7 @@ public Plugin myinfo = {
     name = "hide_motd",
     author = "goodtrailer, Bacardi",
     description = "Hides the MOTD window.",
-    version = "1.0.0",
+    version = "2025.703.0",
     url = "https://github.com/goodtrailer/hide_motd"
 };
 
