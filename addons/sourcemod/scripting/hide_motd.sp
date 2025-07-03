@@ -8,7 +8,7 @@ public Plugin myinfo = {
     author = "goodtrailer, Bacardi",
     description = "Hides the MOTD window.",
     version = "1.0.0",
-    url = "https://forums.alliedmods.net/showpost.php?p=1993733&postcount=7"
+    url = "https://github.com/goodtrailer/hide_motd"
 };
 
 public void OnPluginStart()
