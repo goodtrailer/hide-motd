@@ -4,10 +4,10 @@
 #pragma newdecls required
 
 public Plugin myinfo = {
-    name = "hide_motd",
+    name = "hide-motd",
     author = "goodtrailer, Bacardi",
     description = "Hides the MOTD window.",
-    version = "2025.703.0",
+    version = "2025.705.0",
     url = "https://github.com/goodtrailer/hide_motd"
 };
 
